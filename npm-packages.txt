@@ -1,0 +1,7 @@
+npm i react-toastify
+npm i react-typing-effect
+npm install react-icons
+npm install react-parallax-tilt
+npm i react-router-dom
+
+git remote add origin https://github.com/Whiteak007/3D-Portfolio-using-MERN.git
