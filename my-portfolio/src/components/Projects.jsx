@@ -73,7 +73,7 @@ const Projects = () => {
   };
 
   const handleViewMore = () => {
-    window.open("https://coderakproject.ccbp.tech/", "_blank");
+    window.open("https://coderakprojects.ccbp.tech/", "_blank");
   };
 
   return (
